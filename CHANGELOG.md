@@ -24,3 +24,10 @@
 ### Update
 - update to Angular 14
 - update all dependencies to match Angular 14 version
+
+## [1.5.0] - 2023-07-10
+### Update
+- update to Angular 15
+- update all dependencies to match the Angular 15 version
+- scss and css warning issues fixed
+- devextreme warning issues fixed
