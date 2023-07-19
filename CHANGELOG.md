@@ -31,3 +31,7 @@
 - update all dependencies to match the Angular 15 version
 - scss and css warning issues fixed
 - devextreme warning issues fixed
+
+- ## [1.5.1] - 2023-07-19
+### Update
+- scss warning issues fixed
